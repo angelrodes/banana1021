@@ -1,6 +1,6 @@
 # Banana calculator for Be-10 and Ne-21 data
 
-A script that works in Matlab or Octave and solves burial ages iteratively.
+A script that  solves burial ages iteratively.
 
 This script for Matlab and Octave calculates iteratively erosion rates and burial times from cosmogenic 10Be and 21Ne concentrations scaled to their catchment average production rates. Concentration data is defined in the file ```samples.csv```.
 
